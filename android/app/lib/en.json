@@ -1,0 +1,19 @@
+{
+	"en": {
+		"main": {
+			"here": "I`m here",
+			"getPermissions": "Give permissions for handle device data",
+			"signup_button": "Sign Up",
+			"availableEvents": "You have available events",
+			"emptyEvents": "Not available events",
+			"startEvent": "GO"
+		},
+		"user_profile": {
+			"title": "Your Profile"
+		},
+		"SideMenu":{
+			"subscribeToEvents": "Subscribe to events",
+			"availableEvents": "Available Events"
+		}
+	}
+}

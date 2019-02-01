@@ -1,0 +1,19 @@
+{
+	"ukr": {
+		"main": {
+			"here": "Я прийшов",
+			"getPermissions": "Додати дані для обробки",
+			"signup_button": "Sign Up",
+			"availableEvents": "Ви маєте доступні події",
+			"emptyEvents": "Немає доступних подій",
+			"startEvent": "Почати"
+		},
+		"user_profile": {
+			"title": "Your Profile"
+		},
+		"SideMenu":{
+			"subscribeToEvents": "Додати подію",
+			"availableEvents": "Доступні події"
+		}
+	}
+}
